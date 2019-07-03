@@ -43,3 +43,7 @@ div.sousin{
     font-size:200%;
     font-weight: bold;
 }
+
+.btn:hover{
+  opacity:0.6;
+}
